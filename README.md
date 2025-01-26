@@ -58,8 +58,12 @@ Created an interactive Tableau dashboard to showcase findings:
 ---
 
 ## Repository Links
-- **SQL Queries**: [SQL Code](./sql_queries.sql)
-- **Python Code**: [EDA and ML](./eda_ml_analysis.ipynb)
+- **SQL Queries**:
+  - [SQL Code](./changing_datatypes.sql)
+  - [SQL Code](./initial_analysis.sql)
+- **Python Code**:
+  - [EDA](./EDA.ipynb)
+  - [ML](./ML%20Linear%20Regression.ipynb)
 - **Dashboard**: [Tableau Public Dashboard](#)
 
 ---
