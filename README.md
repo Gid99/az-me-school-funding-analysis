@@ -64,6 +64,6 @@ Created an interactive Tableau dashboard to showcase findings:
 - **Python Code**:
   - [EDA](./EDA.ipynb)
   - [ML](./ML%20Linear%20Regression.ipynb)
-- **Dashboard**: [Tableau Public Dashboard](#)
+- **Dashboard**: [Tableau Public Dashboard](https://public.tableau.com/app/profile/gedeon.rugema7332/viz/AZ_ME_SchoolFunding/Dashboard2?publish=yes)
 
 ---
